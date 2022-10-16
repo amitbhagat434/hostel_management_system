@@ -1,0 +1,253 @@
+.container {
+    /* margin: -21px; */
+    padding: 0px;
+    width: auto;
+    height: 25vh;
+    /* background-color: #eddbd7; */
+    /* background-image: url(logo.png); */
+    background-repeat: no-repeat;
+    /* background-size: 3.2cm; */
+    /* background-position: 3cm; */
+    color: #6F3D3D;
+    text-align: center;
+    justify-content: center;
+}
+
+#a {
+    font-style: italic;
+}
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: 60px;
+    width: 100vh;
+    height: 100%;
+}
+
+.a {
+    margin-top: 50px;
+    margin-left: 200px;
+    color: rgb(190, 19, 19);
+    text-align: center;
+}
+
+h2 {
+    margin-top: 60px;
+    margin-left: 100px;
+    color: rgba(14, 113, 205, 0.742);
+    font-style: italic;
+}
+
+
+
+#b {
+    display: flex;
+    flex-flow: row;
+    margin-top: -20px;
+    margin-left: 50px;
+    border-radius: 4px;
+}
+
+#c {
+    display: flex;
+    flex-flow: row;
+    margin-top: -30px;
+    margin-left: 50px;
+    border-radius: 4px;
+}
+
+#d {
+    display: flex;
+    flex-flow: row;
+    margin-top: -30px;
+    margin-left: 50px;
+    border-radius: 4px;
+}
+
+#e {
+    display: flex;
+    flex-flow: row;
+    margin-top: -20px;
+    margin-left: 0px;
+    border-radius: 4px;
+}
+
+#f {
+    display: flex;
+    margin-top: -30px;
+    margin-left: 50px;
+    flex-flow: row;
+    border-radius: 4px;
+}
+
+#g {
+    margin-left: 100px;
+    border-radius: 4px;
+}
+
+#A {
+    margin-left: 14px;
+    width: 220px;
+    border-radius: 4px;
+    height: 25px;
+}
+
+#B {
+    margin-left: 22px;
+    width: 220px;
+    border-radius: 4px;
+    height: 25px;
+}
+
+#C {
+    margin-left: 18px;
+    width: 220px;
+    border-radius: 4px;
+    height: 25px;
+}
+
+#D {
+    margin-left: 37px;
+    width: 220px;
+    border-radius: 4px;
+    height: 25px;
+}
+
+#E {
+    margin-left: 40px;
+    width: 220px;
+    border-radius: 4px;
+    height: 25px;
+}
+
+#F {
+    margin-left: 10px;
+    width: 220px;
+    border-radius: 4px;
+    height: 25px;
+}
+
+#G {
+    margin-left: 50px;
+    width: 221px;
+    border-radius: 4px;
+    height: 25px;
+}
+
+#H {
+    margin-left: 20px;
+    width: 220px;
+    border-radius: 4px;
+    height: 25px;
+}
+
+#course {
+    margin-left: 21px;
+    width: 230px;
+    border-radius: 4px;
+    height: 30px;
+}
+
+#year {
+    margin-left: 60px;
+    width: 227px;
+    border-radius: 4px;
+    height: 30px;
+}
+
+#semester {
+    margin-left: 28px;
+    width: 227px;
+    border-radius: 4px;
+    height: 30px;
+}
+
+#cgpa {
+    margin-left: 33px;
+    width: 220px;
+    border-radius: 4px;
+    height: 25px;
+}
+
+#category {
+    margin-left: 30px;
+    width: 227px;
+    border-radius: 4px;
+    height: 30px;
+}
+
+#state {
+    margin-left: 20px;
+    width: 230px;
+    border-radius: 4px;
+    height: 30px;
+}
+
+#district {
+    margin-left: 20px;
+    width: 227px;
+    border-radius: 4px;
+    height: 30px;
+}
+
+#e .box {
+    margin: 50px;
+    height: 25px;
+
+}
+
+.x {
+    margin-left: 2px;
+}
+
+.y {
+    margin-left: -15px;
+}
+
+.m {
+    margin-left: -25px;
+}
+
+#n {
+    color: rgb(190, 19, 19);
+    margin-left: 100px;
+}
+
+#f {
+    margin-left: 85px;
+}
+
+#g {
+    margin-left: 60px;
+    border-radius: 4px;
+}
+
+#I {
+    margin-left: 20px;
+    width: 227px;
+    border-radius: 4px;
+    height: 25px;
+}
+
+#k {
+    margin-top: 50px;
+    margin-left: 700px;
+    margin-bottom: 100px;
+    background-color: rgb(190, 19, 19);
+    font-size: 20px;
+    border-radius: 10px;
+    color: White;
+}
+
+#o {
+    font-style: italic;
+    margin-left: 600px;
+    height: 30px;
+}
+
+#k:hover {
+    background-color: rgb(230, 97, 97);
+    height: 30px;
+}
